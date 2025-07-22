@@ -1,0 +1,50 @@
+body {
+    background-color: black;
+}
+
+
+
+
+#esse {
+    margin-top: 5%;
+   border: 3px solid  rgb(63, 190, 218);
+   background-color:chocolate;
+   background-image: url(../img/piano.pq.jpeg);
+   background-size: cover;
+   border-radius:  10px;
+   padding-left: 10% ; 
+   color:aquamarine;
+}
+#esse:hover {
+    background: beige;
+    
+}
+
+.audio {
+    margin-top: 15%;
+    padding-left: 10% ; 
+    
+}
+
+.audio1 {
+    margin-top: 1%;
+    padding-left: 10%; 
+    
+}
+
+input {
+    margin: 5% 0% 5% 1%;
+    padding-right: 10%;
+    border-radius: 1%;
+    border-width:10px ;
+}
+
+
+.buttom  {
+    margin-top: 7%;
+    margin-left: 38%;
+    border-width: 50px ;
+}
+.buttom:hover {
+    background:beige;
+}
